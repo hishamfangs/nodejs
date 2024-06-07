@@ -8,7 +8,6 @@ const multer = require("multer");
 const UPLOAD_FILES_DIR = "./uploads";
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcryptjs");
-
 const app = express();
 const port = process.env.PORT || 3010;
 var con;
