@@ -1,0 +1,15 @@
+{
+	"sqltools.connections": [
+		{
+			"mysqlOptions": {
+				"authProtocol": "default",
+				"enableSsl": "Disabled"
+			},
+			"previewLimit": 50,
+			"server": "localhost",
+			"driver": "MySQL",
+			"name": "mysql-hisham-astratech-interview",
+			"connectString": "mysql://avnadmin:AVNS_a66tKd6_5pdZrtTP9ib@mysql-hisham-astratech-interview-hishamfangs-8c23.f.aivencloud.com:21650/defaultdb?ssl-mode=REQUIRED"
+		}
+	]
+}
